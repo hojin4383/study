@@ -1,6 +1,5 @@
-1.red
-<<<<<<< HEAD
-2. yellow
-3. green
+1.real-red
+2.real-yellow
+3.real-green
 4.magenta
 5.yellow
